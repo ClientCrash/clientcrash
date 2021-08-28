@@ -9,3 +9,4 @@
 - 📫 How to reach me: Twitter > @clientcrash
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a human.
+- 🖊 Interested in pentesting
