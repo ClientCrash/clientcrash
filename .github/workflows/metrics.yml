@@ -27,9 +27,11 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -49,6 +51,7 @@ jobs:
           plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_reactions_limit: 200
           plugin_reactions_limit_issues: 100
+          plugin_reactions_days: 14
           plugin_support: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -56,3 +59,10 @@ jobs:
           plugin_achievements_threshold: C
           plugin_discussions: yes
           plugin_stargazers: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 8
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os-graphs
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
