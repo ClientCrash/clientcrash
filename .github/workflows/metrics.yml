@@ -60,7 +60,7 @@ jobs:
           plugin_discussions: yes
           plugin_stargazers: yes
           plugin_wakatime: yes
-          plugin_wakatime_days: 30
+          plugin_wakatime_days: 14
           plugin_wakatime_limit: 8
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os-graphs
           plugin_wakatime_url: https://wakatime.com
