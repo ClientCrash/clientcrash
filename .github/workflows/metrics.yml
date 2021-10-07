@@ -17,7 +17,7 @@ jobs:
           # Options
           user: clientcrash
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Europe/Berlin
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
