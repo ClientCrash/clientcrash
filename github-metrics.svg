@@ -1649,47 +1649,47 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 29.313790806129244%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 29.246164109406273%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">37%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C++</span>
-                            <div class="bar" style="width: 25.742838107928048%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 25.77718478985991%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">32%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Vue</span>
-                            <div class="bar" style="width: 9.193870752831446%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">11%</span>
+                            <div class="bar" style="width: 9.206137424949967%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">12%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 4.13057961359094%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.136090727151434%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 3.091272485009993%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.0953969312875254%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 2.691538974017322%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.6951300867244834%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Yacc</span>
-                            <div class="bar" style="width: 2.691538974017322%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.6951300867244834%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 2.2118587608261158%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.2148098732488326%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.9327115256495668%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.933955970647098%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
